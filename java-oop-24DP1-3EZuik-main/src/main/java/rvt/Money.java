@@ -1,3 +1,9 @@
+package rvt;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 public class Money {
 
     private final int euros;
